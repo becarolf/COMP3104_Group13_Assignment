@@ -3,12 +3,21 @@ Student ID: 101571040
 College: George Brown Polytechnic
 
 I am currently studying Computer Programming and Analysis at George Brown Polytechnic.
-Throughout my program, I have been learning different programming languages, software development techniques, and how to work on projects with other students.
+Throughout my program, I have been learning different programming languages, software development techniques, 
+and how to work on projects with other students.
 
 The college provides hands-on learning experiences that allow students
 to apply what they learn in class to real-world situations.
 
-My experience at George Brown has helped me improve my programming, problem-solving, and teamwork skills. I believe the knowledge and experience I am gaining will help prepare me for a career in the technology field.
+My experience at George Brown has helped me improve my programming, problem-solving, and teamwork skills. I believe
+the knowledge and experience I am gaining will help prepare me for a career in the technology field.
 
 
-Studying at George Brown has given me the opportunity to learn more about technology and explore different areas of software development. As I continue through my program, I am becoming more confident in my abilities and gaining knowledge that I can use in my future career.
+Studying at George Brown has given me the opportunity to learn more about technology and explore different areas
+of software development. As I continue through my program, I am becoming more confident in my abilities and gaining
+knowledge that I can use in my future career.
+
+
+After completing my Computer Programming and Analysis program at George Brown Polytechnic, I plan to continue my
+education in Cybersecurity. I want to build on the programming and technical skills I have gained and learn more 
+about protecting computer systems, networks, and information from security threats.
