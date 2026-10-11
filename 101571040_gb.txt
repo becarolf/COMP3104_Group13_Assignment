@@ -1,0 +1,11 @@
+Student Name: Jenifa Joseph
+Student ID: 101571040
+College: George Brown Polytechnic
+
+I am currently studying Computer Programming and Analysis at George Brown Polytechnic.
+Throughout my program, I have been learning different programming languages, software development techniques, and how to work on projects with other students.
+
+The college provides hands-on learning experiences that allow students
+to apply what they learn in class to real-world situations.
+
+My experience at George Brown has helped me improve my programming, problem-solving, and teamwork skills. I believe the knowledge and experience I am gaining will help prepare me for a career in the technology field.
