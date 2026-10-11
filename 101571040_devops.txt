@@ -15,4 +15,12 @@ I believe this course will help me improve my technical skills and better unders
 development teams work in the real world.
 
 
-Another important part of this course is learning how to use GitHub Actions to automate tasks. I am also gaining experience working with branches and pull requests, which allow team members to make changes to a project without directly affecting the main branch.
+Another important part of this course is learning how to use GitHub Actions to automate tasks.
+I am also gaining experience working with branches and pull requests, which allow team members 
+to make changes to a project without directly affecting the main branch.
+
+
+Through this group assignment, I am getting more practice using Git and GitHub to work on a 
+shared repository. Each group member works on their own branch, which allows us to make changes 
+without affecting each other's work. I am also learning how commits and pull requests help us keep 
+track of changes and combine our work into one project.
