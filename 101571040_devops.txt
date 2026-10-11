@@ -1,0 +1,11 @@
+Student Name: Jenifa Joseph
+Student ID: 101571040
+Course: COMP3104 - DevOps
+
+In my DevOps class, I am learning about the different tools and practices used in software development and how developers work together on projects.
+
+We are learning how to use Git and GitHub to manage repositories, create branches, make commits, and collaborate with other team members.
+
+The course also introduces continuous integration and continuous delivery (CI/CD), which help automate tasks such as testing and deploying software.
+
+I believe this course will help me improve my technical skills and better understand how software development teams work in the real world.
