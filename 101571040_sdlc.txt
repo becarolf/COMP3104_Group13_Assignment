@@ -1,0 +1,15 @@
+Student Name: Jenifa Joseph
+Student ID: 101571040
+Course: COMP3104 - DevOps
+
+The Importance of DevOps in the Software Development Life Cycle (SDLC)
+
+The Software Development Life Cycle (SDLC) is the process used to plan, design, develop, test, deploy, and maintain software applications.
+
+DevOps is important in the SDLC because it helps developers and operations teams work together throughout the software development process.
+
+By using DevOps practices such as continuous integration and continuous delivery (CI/CD), teams can automate testing and deployment, identify problems earlier, and release software more efficiently.
+
+DevOps also encourages communication and teamwork, which can help reduce errors and improve the quality of software.
+
+I believe DevOps plays an important role in software development because it makes the process more organized, efficient, and reliable.
