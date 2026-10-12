@@ -1,1 +1,11 @@
-Information about George Brown College
+Information about George Brown Polytechnic
+
+George Brown Polytechnic is a public post-secondary institution located in Toronto, Ontario, Canada. It offers a variety of programs in areas such as technology, business, health sciences, hospitality, and design.
+
+One of the things that makes George Brown stand out is its focus on hands-on learning. Students have the opportunity to apply what they learn through practical assignments, labs, and group projects, helping them develop skills that are useful in real work environments.
+
+As a Computer Programming and Analysis student, I have been learning different aspects of software development, including programming languages, databases, web development, mobile applications, and DevOps practices. Working with technologies such as Java, Python, JavaScript, Kotlin, Git, GitHub, and Docker has helped me better understand how applications are developed and how different technologies work together.
+
+Throughout my studies, I have also learned the importance of problem-solving, teamwork, and adapting to new technologies. Each semester has brought new challenges and opportunities to improve my technical skills and become more confident in what I am learning.
+
+Looking back at everything I have learned so far, I feel confident that choosing George Brown Polytechnic was the right decision for me. The combination of theoretical knowledge and practical experience has helped me grow as a student and feel more prepared to pursue a career in software development.
