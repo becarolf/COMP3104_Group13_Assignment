@@ -1,0 +1,24 @@
+Student Name: Leticia Rodrigues
+Student ID: 101559381
+Course: COMP3104 - DevOps
+
+DevOps in the Software Development Life Cycle (SDLC)
+
+The Software Development Life Cycle (SDLC) is a process used to plan, design, develop, test, deploy, and maintain software applications.
+
+DevOps plays an important role in the SDLC by improving collaboration between development and operations teams, automating repetitive tasks, and helping deliver software faster and more reliably.
+
+Some of the main benefits of DevOps in the SDLC include:
+
+- Better collaboration: Improves communication and teamwork throughout the development process.
+
+- Automation: Reduces manual tasks and helps prevent human errors.
+
+- Continuous Integration (CI): Allows developers to regularly integrate and test code changes.
+
+- Continuous Delivery and Deployment (CD): Helps teams release software updates more efficiently.
+
+- Continuous Monitoring: Helps identify issues and improve software performance.
+
+
+By integrating DevOps practices into the SDLC, development teams can improve software quality, reduce errors, and make tge development and delivery process more efficient. 
