@@ -1,1 +1,12 @@
-Importance of DevOps in the software development lifecycle
+Beatriz Ferreira - 101176410
+
+
+Importance of DevOps in the Software Development Lifecycle (SDLC)
+
+DevOps is important in the Software Development Lifecycle because it helps teams develop, test, and release applications in a more organized and efficient way.
+
+With DevOps practices, developers can make changes to their code, test them regularly, and identify errors before they become bigger problems. This makes the development process smoother and reduces the chances of issues reaching the final application.
+
+Another advantage is that DevOps makes it easier to manage updates and maintain software after it has been released. Tools like Git, GitHub, and GitHub Actions help teams track changes, automate tasks, and keep their projects organized.
+
+Overall, DevOps supports a more reliable development process, improves software quality, and helps teams deliver applications that meet users' needs.

@@ -1,1 +1,12 @@
+Beatriz Ferreira - 101176410
+
+
 Information about the COMP 3104 DevOps course
+
+COMP3104 is a DevOps course at George Brown College taught by Professor Pritesh Patel. The course introduces students to tools and practices used in modern software development, focusing on version control, collaboration, automation, and software delivery.
+
+Throughout the course, we as students learn how to hone our skills with Git and Github to manage code changes, work with branches, create pull requests, and collaborate on shared projects.
+
+Another important topic is Continuous Integration and Continuous Deployment (CI/CD). We explore how tools like GitHub Actions can automate workflows and help teams identify issues during development.
+
+The course also provides hands-on experience through labs and group assignments, allowing practice of technical skills and understand how DevOps concepts are used in real development environments. Overall, COMP3104 helps students build practical skills in version control, teamwork, and automation that are useful for future careers in software development.
