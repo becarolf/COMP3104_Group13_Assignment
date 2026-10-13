@@ -1,0 +1,23 @@
+Student Name: Leticia Rodrigues
+Student ID: 101559381
+Course: COMP 3104 - DevOps
+
+George Brown College in located in Toronto - Canada. It offers a variaty of program in areas such as technology,
+bussines, health sciences and design.
+
+I am Computer Programing and & analysis program student. This is an advanced diploma program, that prepares students for 
+careers in software development and related technology fields.
+
+Throughout the program, the students learn programming languages such as Java, Python, C#, and JavaScript, 
+as well as database management, web develpment, and software engineerings concepts.
+
+The program also provides hands-on experience through pratical assignmens and group projects, 
+helping students develop technical skills, problem solving abilities, and teamwork.
+
+As a student in this program, i am gaining pratical experience with different technologies and learning 
+how to apply software development concepts to real-world projects.
+
+My goal in pursuing this program is to build a successful career in the tech industry by applying the knowledge 
+and technical skills I have gained throughout my studies. I hope to become a software engineer and continue developing 
+my programming and problem-solving skills. I am also particularly interested in Android development and would like to 
+explore opportunities to work as an Android developer in the future.
