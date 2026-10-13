@@ -1,15 +1,25 @@
+==================================================
+             GEORGE BROWN COLLEGE
+==================================================
+
 Student Name: Daniel Alvarez
 Student ID: 101589165
 Course: COMP3104 - DevOps
 
------------------------------------------
-
-George Brown College
+--------------------------------------------------
+OVERVIEW
+--------------------------------------------------
 
 George Brown College is a public college located in Toronto, Ontario, Canada.
 
 The college offers a wide range of programs, including computer programming, business, engineering, hospitality, and design.
 
+--------------------------------------------------
+EDUCATION AND CAREER DEVELOPMENT
+--------------------------------------------------
+
 George Brown College emphasizes hands-on learning to prepare students for professional careers.
 
 The Computer Programming and Analysis program equips students with skills in software development, database management, and web development.
+
+==================================================
