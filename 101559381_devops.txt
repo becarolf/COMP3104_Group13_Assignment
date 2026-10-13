@@ -1,0 +1,33 @@
+Student Name: Leticia Rodrigues
+Student ID: 101559381
+Course: COMP3104 - DevOps
+
+DevOps is a software development approach that combines development and IT operations.
+
+The goal of DevOps is to improve collaboration, automate processes, and deliver software more efficiently.
+
+- Some of the core concepts of DevOps include:
+
+- Collaboration and Communication
+
+- Version Control (Git and GitHub)
+
+- Continuous Integration (CI)
+
+- Continuous Delivery and Deployment (CD)
+
+- Infrastructure as Code (IaC)
+
+- Monitoring and Continuous Feedback
+
+In COMP3104, we are learning how these concepts are applied in software development. 
+So far, we have been focusing on Git, GitHub, branching strategies, version control, and CI/CD fundamentals.
+
+Version Control is an important part of DevOps becuase it allows developers to track changes, manage diffent versions
+of their code, and collaborate on projects without losing previous work.
+
+Through our group assignment, we are applying these concepts by working in a shared repository, 
+creating individual branches, making regular commits, and collaborating with our teammates. 
+
+We are also exploring GitHub Actions to understand how automated workflows support Continuous Integration. 
+GitHub Actions can automatically run taks when changes are pushed to a respository helping teams identify problems early and maintain code quality.
