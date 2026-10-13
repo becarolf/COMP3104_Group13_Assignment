@@ -6,65 +6,41 @@ Course: COMP3104 - DevOps
 
 Introduction to DevOps
 
-COMP3104 is a DevOps course offered at George Brown College.
-The course introduces students to the principles, methodologies,
-and tools used in modern software development and IT operations.
+COMP3104 introduces students to DevOps principles, practices, and tools used in modern software development and IT operations.
 
 What is DevOps?
 
-DevOps stands for Development and Operations. It is a set of
-practices and principles that promotes collaboration between
-software developers and IT operations teams.
-
-The primary goal of DevOps is to improve software quality,
-accelerate development cycles, and ensure reliable software
-delivery through automation and continuous improvement.
+DevOps combines Development and Operations to improve collaboration, software quality, and delivery through automation and continuous improvement.
 
 Key Concepts in DevOps
 
 1. Version Control
-Version control systems, such as Git, allow developers to track
-changes in source code, collaborate with team members, and
-maintain different versions of software projects.
+Tools such as Git track code changes, manage versions, and support team collaboration.
 
 2. Continuous Integration (CI)
-Continuous Integration is a practice where developers frequently
-merge their code changes into a shared repository. Automated
-builds and tests help identify errors early in development.
+Developers frequently integrate code into a shared repository, where automated builds and tests help detect errors early.
 
 3. Continuous Delivery and Deployment (CD)
-Continuous Delivery ensures that software changes are tested
-and ready for release. Continuous Deployment takes this further
-by automatically releasing changes that pass the required checks.
+Continuous Delivery prepares tested software for release, while Continuous Deployment automatically releases changes that pass required checks.
 
 4. Automation
-Automation reduces repetitive manual tasks, improves efficiency,
-and minimizes human errors during software development.
+Automation reduces repetitive tasks, improves efficiency, and minimizes human errors.
 
 5. Collaboration
-DevOps encourages communication and shared responsibility
-between development, testing, and operations teams.
+DevOps promotes communication and shared responsibility between development and operations teams.
 
 Tools Used in DevOps
 
-Git - A distributed version control system used to track changes.
+Git - Tracks changes and manages source code versions.
 
-GitHub - A platform for hosting repositories and collaborating
-on software development projects.
+GitHub - Hosts repositories and supports team collaboration.
 
-GitHub Actions - An automation tool that supports CI/CD workflows.
+GitHub Actions - Automates CI/CD workflows.
 
-Docker - A containerization platform that allows applications
-to run consistently across different environments.
+Docker - Packages applications into containers for consistent execution across environments.
 
 Importance of Learning DevOps
 
-Understanding DevOps prepares students for modern software
-development environments where teamwork, automation, and
-continuous improvement are essential.
+DevOps equips students with practical skills in version control, branching strategies, CI/CD, and automation.
 
-Through practical exercises, students develop skills in Git,
-GitHub, branching strategies, repository management, and CI/CD.
-
-These skills are valuable for careers in software development,
-DevOps engineering, cloud computing, and IT operations.
+These skills prepare students for careers in software development, DevOps engineering, cloud computing, and IT operations.
