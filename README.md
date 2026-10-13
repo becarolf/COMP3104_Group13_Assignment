@@ -8,7 +8,11 @@
 - **Member 5:** Ricardo Ferreira (101590278) - [Github] (https://github.com/Ricrdolimma)
 
 ## Project Description
-<!-- Add project description here -->
+This repository contains the group assignment for COMP3104 - DevOps.
+
+The purpose of this project is to apply DevOps concepts and practices, focusing on version control, collaboration, branching strategies, and Continuous Integration (CI).
+
+Throughout this assignment, team members work on individual branches, make regular commits and collaborate using Git and GitHub. The Project also introduces GitHub Actions to automate workflows and demonstrate CI/CD principles.
 
 ## Setup Instructions
 <!-- Add instructions for cloning and setting up the repository -->
