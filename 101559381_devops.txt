@@ -20,6 +20,9 @@ The goal of DevOps is to improve collaboration, automate processes, and deliver 
 
 - Monitoring and Continuous Feedback
 
-In COMP3104, we are learning how these concepts are applied in software development. So far, we have been focusing on Git, GitHub, branching strategies, version control, and CI/CD fundamentals.
+In COMP3104, we are learning how these concepts are applied in software development. 
+So far, we have been focusing on Git, GitHub, branching strategies, version control, and CI/CD fundamentals.
 
-Through our group assignment, we are applying these concepts by working in a shared repository, creating individual branches, making regular commits, and collaborating with our teammates. We are also exploring GitHub Actions to understand how automated workflows support Continuous Integration.
+Through our group assignment, we are applying these concepts by working in a shared repository, 
+creating individual branches, making regular commits, and collaborating with our teammates. 
+We are also exploring GitHub Actions to understand how automated workflows support Continuous Integration.
