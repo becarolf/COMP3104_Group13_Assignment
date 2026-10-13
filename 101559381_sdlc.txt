@@ -22,5 +22,13 @@ Some of the main benefits of DevOps in the SDLC include:
 - Continuous Monitoring: Helps identify issues and improve software performance.
 
 
+DevOps supports differente stages of the SDLC. During the development, verrion controls tools like Git helos
+teams manage code changes and collaborate. During testin, CI pipelines can automatically build and test applications to identify problems early.
+During deployment and maintenance, automation and monitoring help teams release updates and maintain application performance.
+
+In our COMP3104 group assignment, we are applying some of these practices by using Git and GitHub to manage out work, crating individual branches, 
+and tracking changes through commits. We are also learning how GitHub Actions can automate workflows and support the software developmente process.
+
+
 By integrating DevOps practices into the SDLC, development teams can improve software quality, reduce errors, 
-and make tge development and delivery process more efficient. 
+and make the development and delivery process more efficient. 
