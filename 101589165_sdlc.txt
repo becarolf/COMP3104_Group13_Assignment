@@ -102,3 +102,23 @@ By integrating DevOps practices into the SDLC,
 organizations can deliver reliable, high-quality
 software more efficiently while responding quickly
 to changing requirements.
+
+Real-World Example: DevOps in Software Development
+
+Consider a team developing an online shopping application.
+
+Developers use Git to manage source code and collaborate
+on new features such as user authentication, shopping carts,
+and payment processing.
+
+Whenever a developer pushes code to GitHub, a CI pipeline
+automatically builds the application and runs tests.
+
+If the tests pass, the application can move through the
+delivery pipeline toward deployment.
+
+After deployment, monitoring tools help the team identify
+errors, performance issues, and opportunities for improvement.
+
+This example demonstrates how DevOps connects development,
+testing, deployment, and maintenance into a continuous workflow.
