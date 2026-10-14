@@ -1,18 +1,26 @@
+==================================================
+                    DEVOPS
+==================================================
+
 Student Name: Daniel Alvarez
 Student ID: 101589165
 Course: COMP3104 - DevOps
 
------------------------------------------
-
-Introduction to DevOps
+--------------------------------------------------
+INTRODUCTION TO DEVOPS
+--------------------------------------------------
 
 COMP3104 introduces students to DevOps principles, practices, and tools used in modern software development and IT operations.
 
-What is DevOps?
+--------------------------------------------------
+WHAT IS DEVOPS?
+--------------------------------------------------
 
 DevOps combines Development and Operations to improve collaboration, software quality, and delivery through automation and continuous improvement.
 
-Key Concepts in DevOps
+--------------------------------------------------
+KEY CONCEPTS IN DEVOPS
+--------------------------------------------------
 
 1. Version Control
 Tools such as Git track code changes, manage versions, and support team collaboration.
@@ -29,7 +37,9 @@ Automation reduces repetitive tasks, improves efficiency, and minimizes human er
 5. Collaboration
 DevOps promotes communication and shared responsibility between development and operations teams.
 
-Tools Used in DevOps
+--------------------------------------------------
+TOOLS USED IN DEVOPS
+--------------------------------------------------
 
 Git - Tracks changes and manages source code versions.
 
@@ -39,8 +49,12 @@ GitHub Actions - Automates CI/CD workflows.
 
 Docker - Packages applications into containers for consistent execution across environments.
 
-Importance of Learning DevOps
+--------------------------------------------------
+IMPORTANCE OF LEARNING DEVOPS
+--------------------------------------------------
 
 DevOps equips students with practical skills in version control, branching strategies, CI/CD, and automation.
 
 These skills prepare students for careers in software development, DevOps engineering, cloud computing, and IT operations.
+
+==================================================
