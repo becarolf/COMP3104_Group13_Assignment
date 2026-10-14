@@ -4,12 +4,28 @@ Course: COMP3104 - DevOps
 
 DevOps in the Software Development Life Cycle (SDLC)
 
-The software development life cycle describes the work involved in planning, designing, building, testing, releasing, and maintaining an application. DevOps practices connect these stages through shared responsibility, automation, and feedback.
+The software development life cycle describes the work involved in planning, designing, building, testing, releasing,
+and maintaining an application. DevOps practices connect these stages through shared responsibility, automation, and feedback.
 
-During planning and design, development and operations teams can agree on requirements, reliability goals, and how the software will be supported. During development, Git records code changes and helps teammates work together. Continuous integration can build and test each change so defects are found earlier.
+During planning and design, development and operations teams can agree on requirements, reliability goals, and how the
+ software will be supported. During development, Git records code changes and helps teammates work together. Continuous
+  integration can build and test each change so defects are found earlier.
 
-During release and deployment, automated pipelines make delivery steps repeatable. After release, monitoring and user feedback help the team detect problems and decide what to improve. Those findings can inform the next planning cycle.
+During release and deployment, automated pipelines make delivery steps repeatable. After release, monitoring and user
+feedback help the team detect problems and decide what to improve. Those findings can inform the next planning cycle.
 
-These practices can reduce manual errors, shorten feedback loops, and make releases more predictable. They also make it easier for teams to respond to problems and continue improving software after it is deployed.
+These practices can reduce manual errors, shorten feedback loops, and make releases more predictable. They also make it
+ easier for teams to respond to problems and continue improving software after it is deployed.
 
-In this COMP3104 assignment, each member works on a personal branch and contributes files through Git commits. Pull requests support review before changes are merged, and GitHub Actions demonstrates how CI can run automatically when repository changes are pushed.
+In this COMP3104 assignment, each member works on a personal branch and contributes files through Git commits. Pull
+requests support review before changes are merged, and GitHub Actions demonstrates how CI can run automatically when
+repository changes are pushed.
+
+Security Throughout the SDLC
+Security in the Software Development Life Cycle (SDLC) means making security a priority at every stage of development,
+from planning and gathering requirements to testing, deployment, and maintenance. By identifying potential threats
+early, using automated security checks, and continuously monitoring systems, teams can catch vulnerabilities before they
+reach production. This approach allows developers to work efficiently while meeting security standards and regulations.
+It also gives organizations a clearer understanding of security risks and helps ensure that every software release meets
+their security requirements.
+
