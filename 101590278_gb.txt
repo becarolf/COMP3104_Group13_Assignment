@@ -1,4 +1,4 @@
-Student Name: Ricardo Ferreira
+Student Name: Ricardo Lima
 Student ID: 101590278
 Course: COMP3104 - DevOps
 
@@ -7,3 +7,9 @@ Founded in 1967, the college offers certificate, diploma, degree, and continuing
 
 The college has three main campuses: Casa Loma, St. James, and Waterfront.
 Its programs combine classroom learning with practical projects and opportunities to build skills for the workplace.
+
+Applied Learning and Workplace Skills
+Applied learning gives students opportunities to use course concepts in practical assignments and projects.
+This can help build problem-solving, communication, and teamwork skills alongside subject knowledge.
+These skills are useful in the workplace, where people often need to explain their work,
+coordinate with others, and adapt when requirements change.
