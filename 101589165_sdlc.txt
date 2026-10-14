@@ -1,0 +1,57 @@
+==================================================
+              DEVOPS IN THE SDLC
+==================================================
+
+Student Name: Daniel Alvarez
+Student ID: 101589165
+Course: COMP3104 - DevOps
+
+--------------------------------------------------
+INTRODUCTION
+--------------------------------------------------
+
+The Software Development Life Cycle (SDLC) covers planning, design, development, testing, deployment, and maintenance.
+
+DevOps improves these stages through collaboration, automation, and continuous feedback.
+
+--------------------------------------------------
+SDLC STAGES
+--------------------------------------------------
+
+1. Planning: Teams define requirements and align project goals.
+
+2. Design: Teams develop scalable and reliable software architectures.
+
+3. Development: Git helps developers manage code changes and collaborate.
+
+4. Testing: CI/CD pipelines automate testing and detect bugs early.
+
+5. Deployment: Tools such as GitHub Actions and Docker support consistent releases.
+
+6. Maintenance: Monitoring helps identify issues and deliver improvements.
+
+--------------------------------------------------
+BENEFITS OF DEVOPS
+--------------------------------------------------
+
+1. Faster delivery through automation.
+2. Better collaboration between teams.
+3. Higher software quality through continuous testing.
+4. Improved reliability and stability.
+5. Continuous improvement through feedback.
+
+--------------------------------------------------
+REAL-WORLD EXAMPLE
+--------------------------------------------------
+
+An online shopping application uses Git for version control and GitHub Actions for automated testing.
+
+After successful testing, changes can proceed toward deployment. Monitoring helps detect errors and improve performance.
+
+--------------------------------------------------
+CONCLUSION
+--------------------------------------------------
+
+DevOps improves the SDLC by making software development faster, more reliable, and collaborative.
+
+==================================================

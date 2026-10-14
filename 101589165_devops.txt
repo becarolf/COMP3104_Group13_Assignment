@@ -1,0 +1,60 @@
+==================================================
+                    DEVOPS
+==================================================
+
+Student Name: Daniel Alvarez
+Student ID: 101589165
+Course: COMP3104 - DevOps
+
+--------------------------------------------------
+INTRODUCTION TO DEVOPS
+--------------------------------------------------
+
+COMP3104 introduces students to DevOps principles, practices, and tools used in modern software development and IT operations.
+
+--------------------------------------------------
+WHAT IS DEVOPS?
+--------------------------------------------------
+
+DevOps combines Development and Operations to improve collaboration, software quality, and delivery through automation and continuous improvement.
+
+--------------------------------------------------
+KEY CONCEPTS IN DEVOPS
+--------------------------------------------------
+
+1. Version Control
+Tools such as Git track code changes, manage versions, and support team collaboration.
+
+2. Continuous Integration (CI)
+Developers frequently integrate code into a shared repository, where automated builds and tests help detect errors early.
+
+3. Continuous Delivery and Deployment (CD)
+Continuous Delivery prepares tested software for release, while Continuous Deployment automatically releases changes that pass required checks.
+
+4. Automation
+Automation reduces repetitive tasks, improves efficiency, and minimizes human errors.
+
+5. Collaboration
+DevOps promotes communication and shared responsibility between development and operations teams.
+
+--------------------------------------------------
+TOOLS USED IN DEVOPS
+--------------------------------------------------
+
+Git - Tracks changes and manages source code versions.
+
+GitHub - Hosts repositories and supports team collaboration.
+
+GitHub Actions - Automates CI/CD workflows.
+
+Docker - Packages applications into containers for consistent execution across environments.
+
+--------------------------------------------------
+IMPORTANCE OF LEARNING DEVOPS
+--------------------------------------------------
+
+DevOps equips students with practical skills in version control, branching strategies, CI/CD, and automation.
+
+These skills prepare students for careers in software development, DevOps engineering, cloud computing, and IT operations.
+
+==================================================
