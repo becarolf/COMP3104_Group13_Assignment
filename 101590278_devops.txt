@@ -1,11 +1,26 @@
-Student Name: Ricardo Ferreira
+Student Name: Ricardo Lima
 Student ID: 101590278
 Course: COMP3104 - DevOps
 
-DevOps is a way of organizing software development that brings development and IT operations teams together. These teams share responsibility for building, releasing, and maintaining reliable software.
+DevOps is a way of organizing software development that brings development and IT operations teams together.
+These teams share responsibility for building, releasing, and maintaining reliable software.
 
-DevOps practices include communication, version control, continuous integration, automated delivery, infrastructure as code, and monitoring. Together, these practices help teams make smaller changes, find problems sooner, and deliver improvements more consistently.
+DevOps practices include communication, version control, continuous integration, automated delivery,
+\infrastructure as code, and monitoring. Together, these practices help teams make smaller changes, find problems sooner,
+and deliver improvements more consistently.
 
-In COMP3104, we are learning to use Git and GitHub to track changes and collaborate. Individual branches let team members work independently, while pull requests provide a place to review changes before merging them into the shared branch.
+In COMP3104, we are learning to use Git and GitHub to track changes and collaborate.
+Individual branches let team members work independently, while pull requests provide a place to review changes before
+merging them into the shared branch.
 
-Continuous integration (CI) automatically runs checks when code is pushed or a pull request is opened. Continuous delivery (CD) keeps changes ready for release, while continuous deployment automatically releases changes that pass the required checks. GitHub Actions can run these workflows and report whether they succeed.
+Continuous integration (CI) automatically runs checks when code is pushed or a pull request is opened.
+Continuous delivery (CD) keeps changes ready for release, while continuous deployment automatically releases changes
+that pass the required checks. GitHub Actions can run these workflows and report whether they succeed.
+
+How Branches Help Collaboration
+• Isolated workspaces: every developer creates a dedicated branch off the main code
+ line. This prevents unfinished or broken code from affecting the rest of the team.
+• Parallel development: multiple team members can work on different tasks simultaneously without overwriting each other's
+ files or stepping on toes.
+• Clear focus and traceability: naming branches after specific tasks or issue numbers (like feature/user-authentication)
+makes it easy to see what everyone is building at a glance.
