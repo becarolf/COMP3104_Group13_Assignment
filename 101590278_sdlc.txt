@@ -1,4 +1,4 @@
-Student Name: Ricardo Ferreira
+Student Name: Ricardo Lima
 Student ID: 101590278
 Course: COMP3104 - DevOps
 
