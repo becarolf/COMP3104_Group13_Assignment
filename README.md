@@ -43,4 +43,4 @@ Review the execution results and logs.
 A green checkmark indicates a successful run, while a red X indicates a failed run.
 
 ## Branching Strategy
-<!-- Explain how individual branches and pull requests are used -->
+Each member works on a personal branch named `STUDENTID-Name`. Members commit their own changes locally and push them to their branch. Changes are proposed to `master` through pull requests, where they can be reviewed before merging. Members should regularly pull updates from `master` into their own branch to stay current and reduce merge conflicts.
