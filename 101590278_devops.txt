@@ -1,0 +1,11 @@
+Student Name: Ricardo Ferreira
+Student ID: 101590278
+Course: COMP3104 - DevOps
+
+DevOps is a way of organizing software development that brings development and IT operations teams together. These teams share responsibility for building, releasing, and maintaining reliable software.
+
+DevOps practices include communication, version control, continuous integration, automated delivery, infrastructure as code, and monitoring. Together, these practices help teams make smaller changes, find problems sooner, and deliver improvements more consistently.
+
+In COMP3104, we are learning to use Git and GitHub to track changes and collaborate. Individual branches let team members work independently, while pull requests provide a place to review changes before merging them into the shared branch.
+
+Continuous integration (CI) automatically runs checks when code is pushed or a pull request is opened. Continuous delivery (CD) keeps changes ready for release, while continuous deployment automatically releases changes that pass the required checks. GitHub Actions can run these workflows and report whether they succeed.
