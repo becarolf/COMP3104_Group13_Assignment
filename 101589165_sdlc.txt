@@ -1,82 +1,57 @@
+==================================================
+              DEVOPS IN THE SDLC
+==================================================
+
 Student Name: Daniel Alvarez
 Student ID: 101589165
 Course: COMP3104 - DevOps
 
------------------------------------------
+--------------------------------------------------
+INTRODUCTION
+--------------------------------------------------
 
-The Importance of DevOps in the Software Development Life Cycle (SDLC)
+The Software Development Life Cycle (SDLC) covers planning, design, development, testing, deployment, and maintenance.
 
-Introduction
+DevOps improves these stages through collaboration, automation, and continuous feedback.
 
-The Software Development Life Cycle (SDLC) is a structured process for planning, designing, developing, testing, deploying, and maintaining software.
+--------------------------------------------------
+SDLC STAGES
+--------------------------------------------------
 
-DevOps improves this process through collaboration, automation, continuous testing, and efficient software delivery.
+1. Planning: Teams define requirements and align project goals.
 
-Stages of the Software Development Life Cycle
+2. Design: Teams develop scalable and reliable software architectures.
 
-1. Planning and Requirements
+3. Development: Git helps developers manage code changes and collaborate.
 
-Teams identify project requirements, objectives, and expected outcomes.
+4. Testing: CI/CD pipelines automate testing and detect bugs early.
 
-DevOps encourages collaboration between developers, operations teams, and stakeholders to align project goals.
+5. Deployment: Tools such as GitHub Actions and Docker support consistent releases.
 
-2. Design
+6. Maintenance: Monitoring helps identify issues and deliver improvements.
 
-Teams define the software architecture, components, and technical requirements.
+--------------------------------------------------
+BENEFITS OF DEVOPS
+--------------------------------------------------
 
-DevOps supports communication to improve scalability, reliability, and maintainability.
+1. Faster delivery through automation.
+2. Better collaboration between teams.
+3. Higher software quality through continuous testing.
+4. Improved reliability and stability.
+5. Continuous improvement through feedback.
 
-3. Development
+--------------------------------------------------
+REAL-WORLD EXAMPLE
+--------------------------------------------------
 
-Developers write and manage application code using version control systems such as Git to track changes and collaborate.
+An online shopping application uses Git for version control and GitHub Actions for automated testing.
 
-4. Testing
+After successful testing, changes can proceed toward deployment. Monitoring helps detect errors and improve performance.
 
-Automated testing within CI/CD pipelines helps detect bugs early and ensures software meets requirements.
+--------------------------------------------------
+CONCLUSION
+--------------------------------------------------
 
-5. Deployment
+DevOps improves the SDLC by making software development faster, more reliable, and collaborative.
 
-Applications are released into testing or production environments.
-
-Tools such as GitHub Actions and Docker support deployment automation and consistency.
-
-6. Maintenance and Monitoring
-
-Teams monitor applications, identify performance issues, resolve defects, and deliver updates.
-
-Benefits of DevOps in the SDLC
-
-1. Faster Software Delivery
-Automation and CI/CD pipelines accelerate development, testing, and releases.
-
-2. Improved Collaboration
-Development and operations teams share responsibilities and communicate effectively.
-
-3. Higher Software Quality
-Continuous testing identifies defects before production.
-
-4. Increased Reliability
-Automation and monitoring improve application stability.
-
-5. Continuous Improvement
-User feedback and monitoring help teams refine applications over time.
-
-Conclusion
-
-DevOps improves the SDLC by integrating collaboration, automation, and continuous feedback.
-
-These practices help organizations deliver reliable, high-quality software while adapting to changing requirements.
-
-Real-World Example: DevOps in Software Development
-
-Consider a team developing an online shopping application.
-
-Developers use Git to manage source code while implementing features such as authentication, shopping carts, and payment processing.
-
-When code is pushed to GitHub, a configured CI pipeline automatically builds the application and runs tests.
-
-Successful changes can proceed through the delivery pipeline toward deployment.
-
-After deployment, monitoring tools help identify errors, performance issues, and opportunities for improvement.
-
-This demonstrates how DevOps connects development, testing, deployment, and maintenance into a continuous workflow.
+==================================================
