@@ -18,7 +18,29 @@ Throughout this assignment, team members work on individual branches, make regul
 <!-- Add instructions for cloning and setting up the repository -->
 
 ## CI/CD Pipeline
-<!-- Add information about the GitHub Actions workflow, CI/CD configuration, and how to check the pipeline status. -->
+This project uses GitHub Actions to implement Continuous Integration (CI) and automate workflow execution.
+
+The workflow is configured in .github/workflows/ and uses an Ubuntu runner (ubuntu-latest) to execute automated steps.
+
+CI/CD Configuration:
+
+GitHub Actions runs the workflow when changes are pushed to the repository.
+
+The workflow executes predefined steps to verify successful execution.
+
+Automated checks help the team identify potential issues during development.
+
+Checking Pipeline Status:
+
+Open the GitHub repository.
+
+Navigate to the Actions tab.
+
+Select the latest workflow run.
+
+Review the execution results and logs.
+
+A green checkmark indicates a successful run, while a red X indicates a failed run.
 
 ## Branching Strategy
 <!-- Explain how individual branches and pull requests are used -->
