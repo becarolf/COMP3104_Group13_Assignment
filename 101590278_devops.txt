@@ -24,3 +24,9 @@ How Branches Help Collaboration
  files or stepping on toes.
 • Clear focus and traceability: naming branches after specific tasks or issue numbers (like feature/user-authentication)
 makes it easy to see what everyone is building at a glance.
+
+How CI Checks Run
+In this repository, the GitHub Actions workflow is configured to run on pushes and pull requests. When either event
+occurs, GitHub starts a job on an Ubuntu runner. The job checks out the repository and runs its defined steps, then
+reports whether the workflow succeeded or failed. Team members can review the result in the Actions tab and use it as
+feedback while reviewing a pull request.
