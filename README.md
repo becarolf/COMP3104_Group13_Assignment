@@ -5,7 +5,7 @@
 - **Member 2:** Daniel Alvarez (101589165) - [Github] (https://github.com/Dann1706)
 - **Member 3:** Jenifa Joseph (101571040) - [Github] (https://github.com/Jenifaj8)
 - **Member 4:** Leticia Rodrigues (101559381) - [Github] (https://github.com/ltprodrigues)
-- **Member 5:** Ricardo Ferreira (101590278) - [Github] (https://github.com/Ricrdolimma)
+- **Member 5:** Ricardo Lima (101590278) - [Github] (https://github.com/Ricrdolimma)
 
 ## Project Description
 This repository contains the group assignment for COMP3104 - DevOps.
@@ -43,4 +43,4 @@ Review the execution results and logs.
 A green checkmark indicates a successful run, while a red X indicates a failed run.
 
 ## Branching Strategy
-<!-- Explain how individual branches and pull requests are used -->
+Each member works on a personal branch named `STUDENTID-Name`. Members commit their own changes locally and push them to their branch. Changes are proposed to `master` through pull requests, where they can be reviewed before merging. Members should regularly pull updates from `master` into their own branch to stay current and reduce merge conflicts.
