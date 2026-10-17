@@ -15,7 +15,54 @@ The purpose of this project is to apply DevOps concepts and practices, focusing 
 Throughout this assignment, team members work on individual branches, make regular commits and collaborate using Git and GitHub. The Project also introduces GitHub Actions to automate workflows and demonstrate CI/CD principles.
 
 ## Setup Instructions
-<!-- Add instructions for cloning and setting up the repository -->
+
+The COMP3104 Group 13 repository can be cloned and accessed locally using Git. The following setup process allows team members to access project files and stay synchronized with the latest updates.
+
+### Prerequisites
+
+Ensure the following tools are available before setting up the repository:
+
+- **Git:** For cloning the repository and managing version control.
+- **GitHub Account:** For accessing the repository and collaborating with team members.
+- **Code Editor:** Visual Studio Code or any preferred text editor for viewing and editing project files.
+
+### Cloning the Repository
+
+1. Open Git Bash or a terminal.
+2. Clone the repository from GitHub:
+
+   ```bash
+   git clone https://github.com/becarolf/COMP3104_Group13_Assignment.git
+   ```
+
+3. Navigate to the cloned project directory:
+
+   ```bash
+   cd COMP3104_Group13_Assignment
+   ```
+
+### Verifying the Local Setup
+
+Confirm that the repository has been cloned successfully by running:
+
+```bash
+git status
+```
+
+This command displays the current branch and the status of the working directory. A successful setup should show the `master` branch with a clean working tree.
+
+The repository includes the individual student assignment files, `README.md`, and the `.github/workflows/` directory containing the GitHub Actions configuration.
+
+### Keeping the Repository Updated
+
+To ensure the local repository reflects the latest changes merged by the team, run:
+
+```bash
+git switch master
+git pull origin master
+```
+
+These commands switch to the shared `master` branch and retrieve the latest updates from GitHub.
 
 ## CI/CD Pipeline
 This project uses GitHub Actions to implement Continuous Integration (CI) and automate workflow execution.
